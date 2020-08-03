@@ -14,13 +14,13 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## JAG's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm a Database Administrator looking to improve my cloud skills, I recently completed my AWS Solutions Architect certification and preparing for Database specialty certification 
 
-[✍️ Tell us why you started this challenge]
+I'm planning to shift my career skills towards Cloud technology and i believe this challenge would help me achieve my goal.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+I would like complete DBS-C01 and land on cloud related job
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
 - [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
