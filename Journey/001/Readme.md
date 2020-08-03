@@ -5,6 +5,7 @@
 ## Cloud Research
 
 - Copied #100DaysOfCloud templed to my git repo
+- Bought a course on Udemy
 
 ## Social Proof
 
