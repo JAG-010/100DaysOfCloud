@@ -4,10 +4,11 @@
 
 ## Cloud Research
 
-- Copied #100DaysOfCloud templed to my git repo
-- Bought a course on Udemy
+- Copied #100DaysOfCloud template to my git repo
+- Registered on Azure
+- Ready to start strong from **Tomorrow**
 
 ## Social Proof
 
 
-[Twitter link](link)
+[Tweet link](https://twitter.com/Just4JAG/status/1336507117046476801?s=20)

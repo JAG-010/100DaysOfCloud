@@ -10,20 +10,19 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+
 
 ## JAG's Cloud Journey
 
-I'm a Database Administrator looking to improve my cloud skills, I recently completed my AWS Solutions Architect certification and preparing for Database specialty certification 
+I'm a Database Administrator looking to improve my cloud skills, I recently completed my AWS Solutions Architect certification. 
+Its been a while since I completed my AWS Certification, I need to refresh my cloud skill now. 
 
 I'm planning to shift my career skills towards Cloud technology and i believe this challenge would help me achieve my goal.
 
-I would like complete DBS-C01 and land on cloud related job
+I'm currently working on Azure certification and would like to get familiar with both cloud technologies. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/Just4JAG)
+
 
 ## Stepping out the door
 
