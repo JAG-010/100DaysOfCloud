@@ -32,8 +32,8 @@ I'm currently working on Azure certification and would like to get familiar with
 - [ ] ☁️ 4 > [Day 4](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [Day 5](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Day 6](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 7 > [Day 7](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Day 8](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
