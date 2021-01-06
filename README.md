@@ -47,7 +47,7 @@ I'm currently working on Azure certification and would like to get familiar with
 - [ ] ☁️ 16 > [Day 16](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [Day 17](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [Day 18](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [ ] ☁️ 19 > [Day 19](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
