@@ -59,7 +59,7 @@ I'm currently working on Azure certification and would like to get familiar with
 - [ ] ☁️ 25 > [Day 25](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [Day 26](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [Day 27](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
+- [ ] ☁️ 28 > [Day 28](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
